@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App deployed using aws-amplify console"/>
+  <HelloWorld msg="Welcome to Your Vue.js App deployed using aws-amplify console-1"/>
 </template>
 
 <script>
