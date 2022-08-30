@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codeguru-dev-112919-authRole",
+      "UnauthRoleArn": "arn:aws:iam::987297595492:role/amplify-codeguru-dev-112919-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::987297595492:role/amplify-codeguru-dev-112919-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-codeguru-dev-112919-deployment",
+      "UnauthRoleName": "amplify-codeguru-dev-112919-unauthRole",
+      "StackName": "amplify-codeguru-dev-112919",
+      "StackId": "arn:aws:cloudformation:us-east-1:987297595492:stack/amplify-codeguru-dev-112919/e6fcb740-2880-11ed-b63f-0e1b40d5c65f",
+      "AmplifyAppId": "d7821zbi98oz8"
+    }
+  }
+}
